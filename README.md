@@ -12,4 +12,4 @@ You can find it [Here](https://github.com/Haizlbliek/GlitchAutocompletions).
 
 # External Links
 - [Glitch](https://glitch.com/@Haizlbliek)
-- [Itch.io](https://goofy-goobers-studio.itch.io/)
+- [Itch.io](https://goofybox-studios.itch.io/)
