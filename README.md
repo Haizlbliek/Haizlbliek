@@ -7,9 +7,9 @@ My main interest is coding and game dev, but sometimes I do music.
 I am part of an incredible game dev team called GoofyBox Studios (See External Links).
 
 # Main Projects
-I've been working on a Chrome extension to add autocompletions to [Glitch](https://glitch.com).
-You can find it [Here](https://github.com/Haizlbliek/GlitchAutocompletions).
+
+My current focus is [FloodForge](https://github.com/Haizlbliek/FloodForge), a Rain World tool for creating custom worlds!
 
 # External Links
-- [Glitch](https://glitch.com/@Haizlbliek)
+- [Main Page](https://goofybox-studios.github.io/)
 - [Itch.io](https://goofybox-studios.itch.io/)
